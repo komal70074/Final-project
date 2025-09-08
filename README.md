@@ -17,6 +17,7 @@ here, I am paste the jupyter notebook file link .Due to large size of file unabl
 Pdf report filename : python pricing engine script
 
 Create dashboard with price suggestion slider
+filename (screenshot(170) - screenshot(175))
 Deliverables:
 Tableau dashboard with filters
 Python pricing engine script
