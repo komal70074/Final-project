@@ -6,6 +6,9 @@ listing quality.
 Tools: Python, Tableau, Excel
 Mini Guide:
 Analyze pricing by city, property type, reviews
+
+filename(screenshot(137) - screenshot(154))
+ 
 Run regression model to find pricing predictors
 
 Jupyter filename : [ untitled 18](http://localhost:8888/lab/tree/Untitled18.ipynb)   click on link to see regression model code
