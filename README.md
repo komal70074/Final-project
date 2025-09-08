@@ -19,6 +19,6 @@ Pdf report filename : python pricing engine script
 Create dashboard with price suggestion slider
 filename (screenshot(170) - screenshot(175))
 Deliverables:
-Tableau dashboard with filters
-Python pricing engine script
+Tableau dashboard with filters  filename(screenshot(137) - screenshot(154))
+Python pricing engine script   http://localhost:8888/lab/tree/Untitled18.ipynb
 Final PDF with suggestions
